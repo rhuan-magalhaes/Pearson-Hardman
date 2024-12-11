@@ -56,3 +56,9 @@ img {
     padding: 1rem;
 }
 
+.square{
+    display: block;
+    width: 150px;
+    height: 150px;
+    background-color: var(--main-color);
+}
