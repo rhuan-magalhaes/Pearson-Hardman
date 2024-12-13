@@ -111,3 +111,20 @@ img {
 .dot.active{
     background-color: var(--main-color)
 }
+
+#other-services{
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.service{
+    position: relative;
+}
+
+.service i{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
