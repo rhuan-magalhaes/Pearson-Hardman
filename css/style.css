@@ -293,3 +293,13 @@ i {
 .author .author-job{
     color: var(--secondary-text-color);
 }
+
+
+.employees{
+    display: flex;    
+}
+
+.employee{
+    margin: 1rem;
+
+}
