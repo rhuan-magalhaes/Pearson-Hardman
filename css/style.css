@@ -396,8 +396,8 @@ i {
   background-color: var(--primary-text-color);
   color: var(--main-color);
 }
-/* Rodapé */
-/* #footer {
+/* Rodapé */ 
+#footer {
   color: var(--primary-text-color);
   background-color: var(--secondary-bg-color);
   display: flex;
@@ -479,7 +479,7 @@ i {
 
 .phone-info {
   color: var(--secondary-color);
-} */
+}
 
 /* Mobile navbar */
 #menu,
